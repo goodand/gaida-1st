@@ -33,6 +33,8 @@ Thumbs.db
 .coverage.*
 htmlcov/
 
+.DS_Store
+
 # Build artifacts
 build/
 dist/
