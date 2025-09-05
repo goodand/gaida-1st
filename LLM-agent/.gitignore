@@ -8,6 +8,9 @@ env/
 venv/
 .venv/
 
+**.env**
+
+
 # IDEs and editors
 .idea/
 .vscode/
@@ -49,3 +52,20 @@ logs/
 
 # LangChain
 .langchain.db
+
+# Data
+data 
+data/spri.pdf 
+faiss_index
+index.faiss
+index.pkl
+spri.pdf 
+brewing_coffee_merged.md
+LLM-agent/brewing_coffee_merged.md
+
+
+.langgraph_api
+__pycache__
+langgraph/.env 
+
+
