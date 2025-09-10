@@ -1,0 +1,9 @@
+# .gitignore
+name.csv
+
+# API Key 적어 높은 파일
+.env
+.vscode/
+.venv/
+
+
